@@ -16,3 +16,7 @@ Recently, I've gotten back into making fractals using Fractorium. With OpenCL su
 Most of my images are 1920x1200.
 
 The works contained in this repo are licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0
+
+<img height="200" src="butterflies.png">
+<img height="200" src="rainbow_cloud.png">
+<img height="200" src="ripples.png">
