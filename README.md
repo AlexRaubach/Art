@@ -36,7 +36,9 @@ Here's an example of how I create these fractals by making small changes, occasi
 <img height="200" src="1920x1200/tricorne.png">
 <img height="200" src="2560x1440/squid.png">
 
-These two fractals appear quite different but they're both derived from the same random seed with the squi
+These two fractals appear pretty different but they're actually both derived from a common starting point and use the exact same functions/variations and weights, just the locations/transforms, palette and the camera position in 3d space are different.
+
+<img height="200" src="1920x1200/swirl.jpg">
 
 The works contained in this repo are licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0
 
@@ -44,7 +46,7 @@ The works contained in this repo are licensed under CC BY-NC-SA 4.0. To view a c
 
 
 <img height="200" src="1920x1200/butterflies.png">
-<img height="200" src="1920x1200/swirl.jpg">
+
 
 <img height="200" src="1920x1200/compass_rose_10.png">
 <img height="200" src="1920x1200/avis.png">
